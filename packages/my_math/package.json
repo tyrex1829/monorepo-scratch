@@ -1,0 +1,7 @@
+{
+  "name": "@tyrex/my_math",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.6.0",
+  "main": "index.js",
+  "type": "modules"
+}
