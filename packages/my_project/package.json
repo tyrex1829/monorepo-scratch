@@ -1,0 +1,10 @@
+{
+  "name": "@tyrex/my_project",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.6.0",
+  "main": "index.js",
+  "type": "modules",
+  "dependencies": {
+    "@tyrex/my_math": "workspace:1.0.0"
+  }
+}
